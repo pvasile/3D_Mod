@@ -2569,7 +2569,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   guiObject: {fileID: 2147186917}
-  levelToLoad: HallwayScene
+  levelToLoad: HallwayScene_Two
 --- !u!1 &1745935524
 GameObject:
   m_ObjectHideFlags: 0
@@ -2640,7 +2640,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   guiObject: {fileID: 2147186917}
-  levelToLoad: HallwayScene_Two
+  levelToLoad: HallwayScene_Three
 --- !u!65 &1752213212
 BoxCollider:
   m_ObjectHideFlags: 0
