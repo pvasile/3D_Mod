@@ -207,11 +207,6 @@ MonoBehaviour:
   m_EffectColor: {r: 0.44705883, g: 0.2784314, b: 0.15686275, a: 0.49019608}
   m_EffectDistance: {x: -3, y: -3}
   m_UseGraphicAlpha: 1
---- !u!223 &117756362 stripped
-Canvas:
-  m_PrefabParentObject: {fileID: 223464649510854962, guid: de6d20027526746109975bdbfcc1d4a7,
-    type: 2}
-  m_PrefabInternal: {fileID: 1095874244}
 --- !u!1 &122477759 stripped
 GameObject:
   m_PrefabParentObject: {fileID: 100006, guid: b1a93b96b57514615ba51799a284a8e2, type: 3}
@@ -1717,21 +1712,6 @@ Prefab:
     - target: {fileID: 1632449387158840, guid: de6d20027526746109975bdbfcc1d4a7, type: 2}
       propertyPath: m_Name
       value: loadCanvas
-      objectReference: {fileID: 0}
-    - target: {fileID: 114439264135235818, guid: de6d20027526746109975bdbfcc1d4a7,
-        type: 2}
-      propertyPath: loadCanvas
-      value: 
-      objectReference: {fileID: 117756362}
-    - target: {fileID: 224289258189113130, guid: de6d20027526746109975bdbfcc1d4a7,
-        type: 2}
-      propertyPath: m_AnchoredPosition.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 224289258189113130, guid: de6d20027526746109975bdbfcc1d4a7,
-        type: 2}
-      propertyPath: m_AnchoredPosition.y
-      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: de6d20027526746109975bdbfcc1d4a7, type: 2}
