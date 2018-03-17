@@ -2015,7 +2015,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   guiObject: {fileID: 2147186917}
-  levelToLoad: HallwayScene_Three
+  levelToLoad: HallwaySceneRepeat
 --- !u!65 &1236351516
 BoxCollider:
   m_ObjectHideFlags: 0
