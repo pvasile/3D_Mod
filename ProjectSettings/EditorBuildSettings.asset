@@ -6,35 +6,38 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/HallwayScene.unity
+    path: Assets/StartScene.unity
+    guid: 2fc8a910bf07c4d4fb6942ff07a2e1c6
+  - enabled: 1
+    path: Assets/HallwayScene/HallwayScene.unity
     guid: 7f976ce50b5814eba929e0decb71c049
   - enabled: 1
-    path: Assets/HallwayScene_Three.unity
+    path: Assets/HallwayScene/HallwayScene_Three.unity
     guid: b2d9f3aa6d15d4b329985277b502e205
   - enabled: 1
-    path: Assets/HallwayScene_Two.unity
+    path: Assets/HallwayScene/HallwayScene_Two.unity
     guid: cf4d21113435649b4bc2acc25e686b25
+  - enabled: 1
+    path: Assets/Classroom/ClassroomScene.unity
+    guid: 67cb887fd01894f998f399a627c2fab2
+  - enabled: 1
+    path: Assets/Classroom/ClassRoomSceneDark.unity
+    guid: 49fcb3cbed5d94301985dad4357115fb
+  - enabled: 1
+    path: Assets/Classroom/ClassRoomSceneDestroyed.unity
+    guid: d614a43213b0140438b8daf47ed68b79
+  - enabled: 1
+    path: Assets/Classroom/ClassRoomSceneFlipped.unity
+    guid: ffe21ae2bd20c40a09da6e3329e9f6ef
+  - enabled: 1
+    path: Assets/HallwayScene/HallwaySceneRedRepeat.unity
+    guid: 125bdba4255df42aba7dc4b195321eae
+  - enabled: 1
+    path: Assets/HallwayScene/HallwaySceneRepeat.unity
+    guid: 4605c61ece97c479da7c3a0ac97e7908
   - enabled: 1
     path: Assets/RoomTesterScene.unity
     guid: 7068ee3b4263b485ca3809503dfc93bf
   - enabled: 1
     path: Assets/other.unity
     guid: 035a77b45f79b4932ac88c3f6b14b4d1
-  - enabled: 1
-    path: Assets/ClassroomScene.unity
-    guid: 67cb887fd01894f998f399a627c2fab2
-  - enabled: 1
-    path: Assets/ClassRoomSceneDark.unity
-    guid: 49fcb3cbed5d94301985dad4357115fb
-  - enabled: 1
-    path: Assets/ClassRoomSceneDestroyed.unity
-    guid: d614a43213b0140438b8daf47ed68b79
-  - enabled: 1
-    path: Assets/ClassRoomSceneFlipped.unity
-    guid: ffe21ae2bd20c40a09da6e3329e9f6ef
-  - enabled: 1
-    path: Assets/HallwaySceneRedRepeat.unity
-    guid: 125bdba4255df42aba7dc4b195321eae
-  - enabled: 1
-    path: Assets/HallwaySceneRepeat.unity
-    guid: 4605c61ece97c479da7c3a0ac97e7908
