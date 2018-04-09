@@ -31,7 +31,7 @@ public class loadingtext : MonoBehaviour {
             a = (int)(imageComp.fillAmount * 100);
             if (a > 0 && a <= 33)
             {
-                textNormal.text = "Preparing Builders";
+                textNormal.text = "I hope this works";
             }
 
 			if (a >= 100)
@@ -40,11 +40,11 @@ public class loadingtext : MonoBehaviour {
 			}
             else if (a > 33 && a <= 67)
             {
-                textNormal.text = "Scene Building";
+                textNormal.text = "It might suck";
             }
             else if (a > 67 && a <= 100)
             {
-                textNormal.text = "Tightening Nuts and Bolts";
+                textNormal.text = "It probably will";
             }
             else {
 
